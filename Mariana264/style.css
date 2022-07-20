@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #6C7D47;
+}
+
+.cabecalho{
+    color: #FFFF;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 5%;
+}
+
+titulo {
+    font-size: 5rem;
+}
+
+.imagem_centro{
+    height: 400px;
+    width: 00px;
+}
