@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Aula 1</title>
+</head>
+
+<body>
+    
+    <h1 id="myHeader"> Olá seres Humanos </h1>
+
+    <h2 class="city"> Campo-Grande</h2>
+    <p>Campo-Grande fica no mato grosso do sul</p>
+
+    <h2 class="city"> Rio de Janeiro</h2>
+    <p>Rio de Janeiro é um estado </p>
+
+    <h2 class="city">Sao Paulo</h2>
+    <p>Sao Paulo é um estado</p>
+
+</body>
+</html>
+
+*
+
+#myHeader {
+background-color: lightblue;
+color: black;
+padding: 40px;
+text-align: center;
+} 
+
+.city {
+        background-color: rgb(0, 162, 255);
+        color: white;
+        padding: 10px;
+}
+
+p{
+    color:rgb(0, 162, 255);
+}
